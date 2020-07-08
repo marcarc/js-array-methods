@@ -1,5 +1,8 @@
 ## js-array-methods
 
+Saját próba
+
+
 A JavaScript Array Methods címû sorozat GIT repo-ja
 
 ## 01. A Tömb
